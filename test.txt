@@ -16,5 +16,5 @@ staging?
 alpha again
 alpha with new endpoint
 sigh
-demo FTW?
+demo FTW? Please...
 
