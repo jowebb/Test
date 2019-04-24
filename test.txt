@@ -3,24 +3,4 @@ testing... more
 Quick test update
 One more time
 and again
-To demo
-to prod
-alpha again
-prod again
-and again
-and again
-again sigh
-arrggghhh
-joy! and now to alpha
-staging?
-alpha again
-alpha with new endpoint
-sigh
-demo commit
-demo post update to v5, etc.
-blah
-more blah
-even more
-release done
-Let's try that again
-123456
+To alpha
